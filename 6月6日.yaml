@@ -1,0 +1,547 @@
+proxies:
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 01
+  password: LiefQz
+  port: 56019
+  server: 968ca475.n2k5u8p2l3-fb-hk19.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK NEXET 02
+  password: LiefQz
+  port: 56001
+  server: 968ca475.h2m5m5m7s3-fb-hk01.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 03
+  password: LiefQz
+  port: 56011
+  server: 968ca475.d9l6y9i3u7-fb-hk11.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 04
+  password: LiefQz
+  port: 56015
+  server: 968ca475.c7b7m4g9w5-fb-hk15.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 05
+  password: LiefQz
+  port: 56020
+  server: 968ca475.q2q1r7t7i1-fb-hk20.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK NEXET 06
+  password: LiefQz
+  port: 56004
+  server: 968ca475.k7y6j1q5j7-fb-hk04.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 07
+  password: LiefQz
+  port: 56009
+  server: 968ca475.j9i1k1d2n6-fb-hk09.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK NEXET 08
+  password: LiefQz
+  port: 56005
+  server: 968ca475.t1v0e4l6w3-fb-hk05.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 09
+  password: LiefQz
+  port: 56017
+  server: 968ca475.j3o0d1w0i2-fb-hk17.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 10
+  password: LiefQz
+  port: 56013
+  server: 968ca475.e1m8h0s6c4-fb-hk13.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 11
+  password: LiefQz
+  port: 56008
+  server: 968ca475.c8p8o0c5i9-fb-hk08.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK NEXET 12
+  password: LiefQz
+  port: 56003
+  server: 968ca475.w1o0q7h0v5-fb-hk03.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 13
+  password: LiefQz
+  port: 56006
+  server: 968ca475.l3x3b6j6c7-fb-hk06.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 14
+  password: LiefQz
+  port: 56012
+  server: 968ca475.b4t0o9j7z0-fb-hk12.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 15
+  password: LiefQz
+  port: 56018
+  server: 968ca475.b8z9y9a5g9-fb-hk18.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 16
+  password: LiefQz
+  port: 56014
+  server: 968ca475.j4o1v1d1m8-fb-hk14.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 17
+  password: LiefQz
+  port: 56010
+  server: 968ca475.m2b9c0k7b0-fb-hk10.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 18
+  password: LiefQz
+  port: 56016
+  server: 968ca475.b4c3y4i5k7-fb-hk16.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK NEXET 19
+  password: LiefQz
+  port: 56002
+  server: 968ca475.z4f0d9i1c6-fb-hk02.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK HNSL 20
+  password: LiefQz
+  port: 56007
+  server: 968ca475.x6m8q1f3y9-fb-hk07.6pzfwf.com
+  type: ss
+- name: HK GCSL 21
+  password: 215566a0-f135-4be8-bfe6-e8be49b18fdb
+  port: 1000
+  server: lx.ccwink.cc
+  skip-cert-verify: true
+  sni: hk003.ccwink.cc
+  type: hysteria2
+- cipher: chacha20-ietf-poly1305
+  name: SG Nearoute 01
+  password: LiefQz
+  port: 56045
+  server: 968ca475.v2c3p9i2y0-fb-sg05.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SG Nearoute 02
+  password: LiefQz
+  port: 56041
+  server: 968ca475.g1v1p1b6f2-fb-sg01.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SG Nearoute 03
+  password: LiefQz
+  port: 56050
+  server: 968ca475.i6c5x1e2v0-fb-sg10.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SG Nearoute 04
+  password: LiefQz
+  port: 56043
+  server: 968ca475.h1v1d0d4y0-fb-sg03.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SG Nearoute 05
+  password: LiefQz
+  port: 56047
+  server: 968ca475.l9x3y6g1c9-fb-sg07.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SG Nearoute 06
+  password: LiefQz
+  port: 56046
+  server: 968ca475.q2q9p9t0q2-fb-sg06.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SG Nearoute 07
+  password: LiefQz
+  port: 56049
+  server: 968ca475.p0c1h3j5d6-fb-sg09.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SG Nearoute 08
+  password: LiefQz
+  port: 56048
+  server: 968ca475.y6r5t2u7x1-fb-sg08.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SG Nearoute 09
+  password: LiefQz
+  port: 56044
+  server: 968ca475.v7j4k1a0s1-fb-sg04.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SG Nearoute 10
+  password: LiefQz
+  port: 56042
+  server: 968ca475.n3k8r2m5d0-fb-sg02.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: JP Nearoute 01
+  password: LiefQz
+  port: 56034
+  server: 968ca475.i5l0q0z1g9-fb-jp04.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: JP Nearoute 02
+  password: LiefQz
+  port: 56033
+  server: 968ca475.x8u0j9p3x8-fb-jp03.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: JP Nearoute 03
+  password: LiefQz
+  port: 56037
+  server: 968ca475.r7p0n9u0u1-fb-jp07.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: JP Nearoute 04
+  password: LiefQz
+  port: 56038
+  server: 968ca475.w3j6z0w5r1-fb-jp08.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: JP Nearoute 05
+  password: LiefQz
+  port: 56035
+  server: 968ca475.o0p2h3c6e9-fb-jp05.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: JP Nearoute 06
+  password: LiefQz
+  port: 56040
+  server: 968ca475.l4a7m1t7o9-fb-jp10.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: JP Nearoute 07
+  password: LiefQz
+  port: 56032
+  server: 968ca475.k3c0d7u0o8-fb-jp02.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: JP Nearoute 08
+  password: LiefQz
+  port: 56039
+  server: 968ca475.x9o3f2u7o5-fb-jp09.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: JP Nearoute 09
+  password: LiefQz
+  port: 56031
+  server: 968ca475.u2k2b1y2y8-fb-jp01.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: US RELIABLESITE 01
+  password: LiefQz
+  port: 56058
+  server: 968ca475.l5s0n8w0r7-fb-us08.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: US RELIABLESITE 02
+  password: LiefQz
+  port: 56052
+  server: 968ca475.k2a9o5h3x3-fb-us02.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: US RELIABLESITE 03
+  password: LiefQz
+  port: 56060
+  server: 968ca475.c5m1d8v9t6-fb-us10.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: US FIBERSTATE 04
+  password: LiefQz
+  port: 56054
+  server: 968ca475.h1v9e3i3t5-fb-us04.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: US FIBERSTATE 05
+  password: LiefQz
+  port: 56053
+  server: 968ca475.p1s6x6l9p5-fb-us03.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: US RELIABLESITE 06
+  password: LiefQz
+  port: 56051
+  server: 968ca475.y7i6z4w6e7-fb-us01.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: US RELIABLESITE 07
+  password: LiefQz
+  port: 56055
+  server: 968ca475.k3t6s5q3d0-fb-us05.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: US RELIABLESITE 08
+  password: LiefQz
+  port: 56056
+  server: 968ca475.r9m6t7z0c1-fb-us06.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: US RELIABLESITE 09
+  password: LiefQz
+  port: 56057
+  server: 968ca475.l9o6m8o8g7-fb-us07.6pzfwf.com
+  type: ss
+- name: US AMAZON 10
+  network: ws
+  port: 2052
+  server: 104.21.75.66
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 7fed5bf9-a1de-41a0-ab89-694265c4895f
+  ws-opts:
+    headers:
+      Host: domain2025.dpdns.org
+    path: /qjzAFwVFUES0FyIC?ed=2560
+- cipher: chacha20-ietf-poly1305
+  name: US RELIABLESITE 11
+  password: LiefQz
+  port: 56059
+  server: 968ca475.n1b6u7w1e6-fb-us09.6pzfwf.com
+  type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  fingerprint: ''
+  flow: ''
+  name: US SHARKTECH 12
+  network: ws
+  port: 443
+  server: cg1c01.waimaoglobaldirect.cc
+  servername: cg1c01.waimaoglobaldirect.cc
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 6136829c-a9e6-4ab0-810f-492ef89e2781
+  ws-opts:
+    headers:
+      Host: cg1c01.waimaoglobaldirect.cc
+    path: /api/v1/graphql
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: randomized
+  name: US TUT 13
+  network: ws
+  port: 2053
+  server: h7-83w.pages.dev
+  servername: h7-83W.PaGEs.Dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 0f4d41cf-0be1-4fcc-ac41-53b843ba0752
+  ws-opts:
+    headers:
+      Host: h7-83w.pages.dev
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/55.0.2883.87 Safari/537.36
+    path: /vNpODA25ZPiXf4aS?ed=2560
+  xudp: true
+- cipher: chacha20-ietf-poly1305
+  name: TW PNIC 01
+  password: LiefQz
+  port: 56028
+  server: 968ca475.w1q4y3g3y9-fb-tw08.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: TW PNIC 02
+  password: LiefQz
+  port: 56026
+  server: 968ca475.w7e0v1h7s6-fb-tw06.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: TW PNIC 03
+  password: LiefQz
+  port: 56027
+  server: 968ca475.b4s1f7b1f6-fb-tw07.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: TW PNIC 04
+  password: LiefQz
+  port: 56023
+  server: 968ca475.e1f4p6b9l6-fb-tw03.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: TW PNIC 05
+  password: LiefQz
+  port: 56022
+  server: 968ca475.q5p4g2i9n8-fb-tw02.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: TW PNIC 06
+  password: LiefQz
+  port: 56029
+  server: 968ca475.e7n4h8o6p2-fb-tw09.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: TW PNIC 07
+  password: LiefQz
+  port: 56021
+  server: 968ca475.g5i2h5u6j3-fb-tw01.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: TW PNIC 08
+  password: LiefQz
+  port: 56030
+  server: 968ca475.e2l8i4d0s6-fb-tw10.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: TW PNIC 09
+  password: LiefQz
+  port: 56024
+  server: 968ca475.d9e3a5o3m3-fb-tw04.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: TW PNIC 10
+  password: LiefQz
+  port: 56025
+  server: 968ca475.t3w5r6a5b6-fb-tw05.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: AR Kaopu 01
+  password: LiefQz
+  port: 56100
+  server: 968ca475.c4h0m9x2t7-fb-ar02.6pzfwf.com
+  type: ss
+- name: DE Hetzner 01
+  network: ws
+  port: 2086
+  server: www.speedtest.net
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 7fed5bf9-a1de-41a0-ab89-694265c4895f
+  ws-opts:
+    headers:
+      Host: domain2025.dpdns.org
+    path: /3wVlyke7DbEIF74o?ed=2560
+- cipher: chacha20-ietf-poly1305
+  name: GB Clouvider 01
+  password: LiefQz
+  port: 56065
+  server: 968ca475.l6d3a8u9c1-fb-uk05.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: GB Clouvider 02
+  password: LiefQz
+  port: 56062
+  server: 968ca475.n7y5v1s7m1-fb-uk02.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: GB Clouvider 03
+  password: LiefQz
+  port: 56063
+  server: 968ca475.y6k6k6p7z5-fb-uk03.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: GB Clouvider 04
+  password: LiefQz
+  port: 56061
+  server: 968ca475.r2n3u8n5a2-fb-uk01.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: GB Clouvider 05
+  password: LiefQz
+  port: 56064
+  server: 968ca475.e7d2l1j0x3-fb-uk04.6pzfwf.com
+  type: ss
+- cipher: aes-256-cfb
+  name: KR SK 01
+  password: qwerREWQ@@
+  port: 4652
+  server: 218.237.185.230
+  type: ss
+- cipher: aes-256-cfb
+  name: KR Korea 02
+  password: qwerREWQ@@
+  port: 11389
+  server: 221.150.109.89
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: MY STSB 01
+  password: LiefQz
+  port: 56069
+  server: 968ca475.i7v2a9h4n2-fb-my04.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: MY STSB 02
+  password: LiefQz
+  port: 56068
+  server: 968ca475.r3g4r1m8j1-fb-my03.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: MY STSB 03
+  password: LiefQz
+  port: 56070
+  server: 968ca475.u2k3f8l6w4-fb-my05.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: MY STSB 04
+  password: LiefQz
+  port: 56067
+  server: 968ca475.t3s9n7b1x8-fb-my02.6pzfwf.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: MY STSB 05
+  password: LiefQz
+  port: 56066
+  server: 968ca475.v6q5t9f8a0-fb-my01.6pzfwf.com
+  type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  fingerprint: ''
+  flow: ''
+  name: NL DIGITALOCEAN 01
+  network: ws
+  port: 443
+  server: cg1c13.waimaoglobaldirect.cc
+  servername: cg1c13.waimaoglobaldirect.cc
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 6136829c-a9e6-4ab0-810f-492ef89e2781
+  ws-opts:
+    headers:
+      Host: cg1c13.waimaoglobaldirect.cc
+    path: /api/v1/graphql
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  fingerprint: ''
+  flow: ''
+  name: RU LLC 01
+  network: ws
+  port: 443
+  server: cg1c09.waimaoglobaldirect.cc
+  servername: cg1c09.waimaoglobaldirect.cc
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: be8e3136-b874-4085-bd23-ec3699300490
+  ws-opts:
+    headers:
+      Host: cg1c09.waimaoglobaldirect.cc
+    path: /api/v1/graphql
+- cipher: aes-256-cfb
+  name: VN VIETPN 01
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  port: 38388
+  server: 103.186.155.20
+  type: ss
