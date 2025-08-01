@@ -1,1 +1,17 @@
-
+proxies: 
+- name: ekko-sg-ss2022
+  type: ss
+  server: s1-4.imciel.com
+  port: 9518
+  cipher: 2022-blake3-aes-128-gcm
+  password: olrjrxGf0znvm5PVWeKW1A==:wz1VJKN2gVLekJSSEGg7Qw==
+  udp: true
+  skip-cert-verify: false
+- name: ekko-sg-ss
+  type: ss
+  server: 109.176.19.87
+  port: 53191
+  cipher: aes-256-gcm
+  password: z80eh2kk1fNpQI
+  udp: true
+  skip-cert-verify: false
