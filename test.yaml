@@ -1,0 +1,7 @@
+proxies:
+- name: MySS
+  type: ss
+  server: 18.162.139.110
+  port: 54321
+  cipher: aes-256-gcm
+  password: bBwS71fmqAvgKrV
