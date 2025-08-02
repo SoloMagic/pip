@@ -1,1 +1,88 @@
+proxies:
+  - name: "🇭🇰 香港中转"
+    type: ss
+    server: c708s1.portablesubmarines.com
+    port: 17837
+    cipher: aes-256-gcm
+    password: ZSMxrhWmMtP7Zqya
+    udp: true
 
+  - name: "🧦 SOCKS5 #46301"
+    type: socks5
+    server: 183.240.227.189
+    port: 46301
+    username: 14a5f38849cc5
+    password: bdce2c6416
+    udp: true
+
+  - name: "🧦 SOCKS5 #46302"
+    type: socks5
+    server: 183.240.227.189
+    port: 46302
+    username: 14a5f38849cc5
+    password: bdce2c6416
+    udp: true
+
+  - name: "🧦 SOCKS5 #46303"
+    type: socks5
+    server: 183.240.227.189
+    port: 46303
+    username: 14a5f38849cc5
+    password: bdce2c6416
+    udp: true
+
+  - name: "🧦 SOCKS5 #46304"
+    type: socks5
+    server: 183.240.227.189
+    port: 46304
+    username: 14a5f38849cc5
+    password: bdce2c6416
+    udp: true
+
+  - name: "🧦 SOCKS5 #46306"
+    type: socks5
+    server: 183.240.227.189
+    port: 46306
+    username: 14a5f38849cc5
+    password: bdce2c6416
+    udp: true
+
+  - name: "🧦 SOCKS5 #46307"
+    type: socks5
+    server: 183.240.227.189
+    port: 46307
+    username: 14a5f38849cc5
+    password: bdce2c6416
+    udp: true
+
+  - name: "🧦 SOCKS5 #46308"
+    type: socks5
+    server: 183.240.227.189
+    port: 46308
+    username: 14a5f38849cc5
+    password: bdce2c6416
+    udp: true
+
+  - name: "🧦 SOCKS5 #46309"
+    type: socks5
+    server: 183.240.227.189
+    port: 46309
+    username: 14a5f38849cc5
+    password: bdce2c6416
+    udp: true
+
+  - name: "🧦 SOCKS5 #46310"
+    type: socks5
+    server: 183.240.227.189
+    port: 46310
+    username: 14a5f38849cc5
+    password: bdce2c6416
+    udp: true
+
+  - name: "🧦 SOCKS5 #46311"
+    type: socks5
+    server: 183.240.227.189
+    port: 46311
+    username: 14a5f38849cc5
+    password: bdce2c6416
+    udp: true
